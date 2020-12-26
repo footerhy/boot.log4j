@@ -1,0 +1,11 @@
+2020-12-26 22:24:02,560 INFO  http-nio-8080-exec-1             - [TraceId:20201226222402996] 出参roomdo：java.lang.Object@28412d37
+2020-12-26 22:24:02,561 DEBUG http-nio-8080-exec-1             - [TraceId:20201226222402528] 这是debug信息小嘚嘚
+2020-12-26 22:24:02,561 ERROR http-nio-8080-exec-1             - [TraceId:20201226222402871] 这是error信息很严重哟！
+2020-12-26 22:25:27,869 INFO  http-nio-8080-exec-3             - [TraceId:20201226222527788] 出参roomdo：java.lang.Object@10e21d06
+2020-12-26 22:25:27,869 DEBUG http-nio-8080-exec-3             - [TraceId:20201226222527374] 这是debug信息小嘚嘚
+2020-12-26 22:25:27,869 ERROR http-nio-8080-exec-3             - [TraceId:20201226222527806] 这是error信息很严重哟！
+2020-12-26 22:25:27,870 INFO  http-nio-8080-exec-3             - 这个确实是info日志的啦！
+2020-12-26 23:00:54,009 INFO  http-nio-8080-exec-1             - [TraceId:20201226230054463] 出参roomdo：java.lang.Object@7ac5e60b
+2020-12-26 23:00:54,009 DEBUG http-nio-8080-exec-1             - [TraceId:20201226230054673] 这是debug信息小嘚嘚
+2020-12-26 23:00:54,009 ERROR http-nio-8080-exec-1             - [TraceId:20201226230054600] 这是error信息很严重哟！
+2020-12-26 23:00:54,010 INFO  http-nio-8080-exec-1             - 这个确实是info日志的啦！
