@@ -151,12 +151,13 @@ public class LoggerUtil {
     }
 
     /**
-     * traceid
+     * traced
      * 
      * @return
      */
     private static String getTraceId() {
-        SimpleDateFormat sdf = new SimpleDateFormat("yyyyMMddHHmmss");//格式化对象
+        //格式化对象
+        SimpleDateFormat sdf = new SimpleDateFormat("yyyyMMddHHmmss");
         String tempD = sdf.format(new Date());
         return tempD+((int) (Math.random() * 900) + 100);
     }

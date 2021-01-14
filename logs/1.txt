@@ -1,1 +1,7 @@
-参考 https://www.cnblogs.com/zyf-yxm/p/9201202.html
+日志参考
+    https://www.cnblogs.com/zyf-yxm/p/9201202.html
+
+webservice 参考
+    发布： https://www.cnblogs.com/wlv1314/p/12157568.html
+    访问： https://www.cnblogs.com/myitnews/p/12370308.html
+    异常； https://www.cnblogs.com/coffee9527/p/8694332.html
