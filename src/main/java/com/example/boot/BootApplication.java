@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 /**
  * @author Administrator
  */
-@SpringBootApplication(scanBasePackages = {"yxm.zyf.love","com.fire.foo","com.example.boot.service"})
+@SpringBootApplication(scanBasePackages = {"com.example.boot.controller","yxm.zyf.love","com.fire.foo","com.example.boot.service"})
 public class BootApplication {
 	private final static Logger LOGGER = Logger.getLogger(BootApplication.class);
 	public static void main(String[] args) {
